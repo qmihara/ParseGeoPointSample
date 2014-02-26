@@ -1,0 +1,4 @@
+#import "QMConstants.h"
+
+NSString * const QMParseApplicationID = @"XXX";
+NSString * const QMParseClientKey = @"YYY";
